@@ -1,0 +1,62 @@
+body {
+  background-image: url(https://genkisushi.co.id/media/2020/02/bg-white-texture-scaled.jpg) !important;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.bg-sidebar {
+  background-color: rgb(85, 173, 85);
+  /* color: black; */
+}
+.spacing-text {
+  letter-spacing: 2px;
+}
+.active {
+  background-color: aliceblue !important;
+  color: green !important;
+  padding: 8px 25px !important;
+  border-radius: 10px !important;
+}
+.nav-link {
+  transition-duration: 0.5s;
+  transition: padding 0.9s;
+}
+.nav-link:hover {
+  background-color: aliceblue !important;
+  color: green !important;
+  padding: 8px 25px !important;
+  border-radius: 10px !important;
+}
+.filter-pick {
+  transition-duration: 0.4s;
+}
+.filter-pick:hover {
+  background-color: rgb(85, 173, 85) !important;
+  color: white !important;
+}
+
+.btn-love {
+  border-width: 0;
+  background-color: rgb(255, 246, 246);
+  transition-duration: 0.4s;
+}
+.btn-love:hover {
+  background-color: rgb(255, 75, 75);
+  color: white;
+}
+.bg-green-light {
+  background-color: rgb(215, 255, 215);
+}
+.card {
+  cursor: pointer;
+}
+.card-img {
+  transition: all 0.5s ease-in-out;
+}
+.card-img:hover {
+  transform: scale(1.06);
+}
