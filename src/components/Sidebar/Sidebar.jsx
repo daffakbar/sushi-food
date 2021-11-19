@@ -16,7 +16,7 @@ const Sidebar = () => {
         >
           <li class="nav-item">
             <NavLink
-              to="/"
+              to="/sushi-food"
               className="px-0 text-white align-middle nav-link spacing-text"
               activeClassName="active"
             >

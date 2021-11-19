@@ -7,7 +7,7 @@ const Filter = () => {
       <ul class="d-flex nav-pills nav">
         <li class="nav-item ms-2">
           <a
-            href="/"
+            href="/menu"
             class="text-decoration-none px-2 rounded-pill bg-sidebar text-white filter-pick border border-2"
           >
             <i class="bi bi-star"></i> Sushi Favorite
@@ -15,7 +15,7 @@ const Filter = () => {
         </li>
         <li class="nav-item ms-2">
           <a
-            href="/"
+            href="/menu"
             class=" text-decoration-none px-2 rounded-pill text-secondary border border-2 bg-light filter-pick "
           >
             <i class="bi bi-box-seam"></i> Sushi Packages
@@ -23,7 +23,7 @@ const Filter = () => {
         </li>
         <li class="nav-item">
           <a
-            href="/"
+            href="/menu"
             class="text-decoration-none px-2 rounded-pill text-secondary border border-2 bg-light filter-pick "
           >
             <i class="bi bi-hand-thumbs-up"></i> Best Sushi
