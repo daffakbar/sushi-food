@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/sushi-food/static/css/main.67a6d618.chunk.css",
-    "main.js": "/sushi-food/static/js/main.b120089b.chunk.js",
-    "main.js.map": "/sushi-food/static/js/main.b120089b.chunk.js.map",
-    "runtime-main.js": "/sushi-food/static/js/runtime-main.6e463eb6.js",
-    "runtime-main.js.map": "/sushi-food/static/js/runtime-main.6e463eb6.js.map",
+    "main.js": "/sushi-food/static/js/main.66c2c729.chunk.js",
+    "main.js.map": "/sushi-food/static/js/main.66c2c729.chunk.js.map",
+    "runtime-main.js": "/sushi-food/static/js/runtime-main.e4320eda.js",
+    "runtime-main.js.map": "/sushi-food/static/js/runtime-main.e4320eda.js.map",
     "static/css/2.d84bd740.chunk.css": "/sushi-food/static/css/2.d84bd740.chunk.css",
-    "static/js/2.9566518e.chunk.js": "/sushi-food/static/js/2.9566518e.chunk.js",
-    "static/js/2.9566518e.chunk.js.map": "/sushi-food/static/js/2.9566518e.chunk.js.map",
-    "static/js/3.44cafab5.chunk.js": "/sushi-food/static/js/3.44cafab5.chunk.js",
-    "static/js/3.44cafab5.chunk.js.map": "/sushi-food/static/js/3.44cafab5.chunk.js.map",
+    "static/js/2.01f86e9a.chunk.js": "/sushi-food/static/js/2.01f86e9a.chunk.js",
+    "static/js/2.01f86e9a.chunk.js.map": "/sushi-food/static/js/2.01f86e9a.chunk.js.map",
+    "static/js/3.31fdc882.chunk.js": "/sushi-food/static/js/3.31fdc882.chunk.js",
+    "static/js/3.31fdc882.chunk.js.map": "/sushi-food/static/js/3.31fdc882.chunk.js.map",
     "index.html": "/sushi-food/index.html",
     "static/css/2.d84bd740.chunk.css.map": "/sushi-food/static/css/2.d84bd740.chunk.css.map",
     "static/css/main.67a6d618.chunk.css.map": "/sushi-food/static/css/main.67a6d618.chunk.css.map",
-    "static/js/2.9566518e.chunk.js.LICENSE.txt": "/sushi-food/static/js/2.9566518e.chunk.js.LICENSE.txt",
+    "static/js/2.01f86e9a.chunk.js.LICENSE.txt": "/sushi-food/static/js/2.01f86e9a.chunk.js.LICENSE.txt",
     "static/media/bootstrap-icons.css": "/sushi-food/static/media/bootstrap-icons.7165e5d7.woff",
     "static/media/load1.6ba080cd.gif": "/sushi-food/static/media/load1.6ba080cd.gif",
     "static/media/load2.87873218.gif": "/sushi-food/static/media/load2.87873218.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e463eb6.js",
+    "static/js/runtime-main.e4320eda.js",
     "static/css/2.d84bd740.chunk.css",
-    "static/js/2.9566518e.chunk.js",
+    "static/js/2.01f86e9a.chunk.js",
     "static/css/main.67a6d618.chunk.css",
-    "static/js/main.b120089b.chunk.js"
+    "static/js/main.66c2c729.chunk.js"
   ]
 }
