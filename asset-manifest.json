@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sushi-food/static/css/main.67a6d618.chunk.css",
-    "main.js": "/sushi-food/static/js/main.66c2c729.chunk.js",
-    "main.js.map": "/sushi-food/static/js/main.66c2c729.chunk.js.map",
+    "main.js": "/sushi-food/static/js/main.fc82a06b.chunk.js",
+    "main.js.map": "/sushi-food/static/js/main.fc82a06b.chunk.js.map",
     "runtime-main.js": "/sushi-food/static/js/runtime-main.e4320eda.js",
     "runtime-main.js.map": "/sushi-food/static/js/runtime-main.e4320eda.js.map",
     "static/css/2.d84bd740.chunk.css": "/sushi-food/static/css/2.d84bd740.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.d84bd740.chunk.css",
     "static/js/2.01f86e9a.chunk.js",
     "static/css/main.67a6d618.chunk.css",
-    "static/js/main.66c2c729.chunk.js"
+    "static/js/main.fc82a06b.chunk.js"
   ]
 }
